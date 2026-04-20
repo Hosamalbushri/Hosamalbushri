@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=600&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;6%2B+Years+of+Professional+Experience;Scalable+%26+High-Performance+Systems;Clean+Architecture+%26+System+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=600&color=00F2FE&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Scalable+%26+High-Performance+Systems;Clean+Architecture+%26+System+Design" />
 </p>
 
 <!-- CONTACT -->
