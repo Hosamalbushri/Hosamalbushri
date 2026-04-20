@@ -35,6 +35,13 @@ I’m a **Full-Stack Software Engineer** focused on building reliable, scalable 
 
 ## 🧠 Core Expertise
 
+| Domain | Focus |
+|--------|------|
+| **Backend Engineering** | APIs, System Design, Architecture |
+| **Frontend Development** | UI, Performance, State Management |
+| **Databases** | Modeling, Optimization, SQL Design |
+| **DevOps** | Docker, CI/CD, Deployment |
+
 ---
 
 ## ⚡ Tech Stack
