@@ -94,7 +94,7 @@ I’m a **Full-Stack Software Engineer** focused on building reliable, scalable 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hosamalbushri&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Hosamalbushri&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" /> -->
   <img width="48%" src="https://streak-stats.demolab.com/?user=Hosamalbushri&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
 </p>
 
